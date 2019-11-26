@@ -1,2 +1,2 @@
 # code-graphs
-beginning with graphs algotithms
+beginning with graphs algorithms
