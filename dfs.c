@@ -3,6 +3,7 @@
 
 int V, E, dfstime;
 int finished[1000],discover[1000], marked[1000];
+//discover takes track of the time nodes were discovered or visited for the first time
 
 struct node{
     int info;
